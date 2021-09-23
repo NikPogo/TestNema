@@ -1,0 +1,14 @@
+A:\VS Prog\Тестовый\Тестовый\bin\Debug\netcoreapp3.1\Тестовый.exe
+A:\VS Prog\Тестовый\Тестовый\bin\Debug\netcoreapp3.1\Тестовый.deps.json
+A:\VS Prog\Тестовый\Тестовый\bin\Debug\netcoreapp3.1\Тестовый.runtimeconfig.json
+A:\VS Prog\Тестовый\Тестовый\bin\Debug\netcoreapp3.1\Тестовый.runtimeconfig.dev.json
+A:\VS Prog\Тестовый\Тестовый\bin\Debug\netcoreapp3.1\Тестовый.dll
+A:\VS Prog\Тестовый\Тестовый\bin\Debug\netcoreapp3.1\Тестовый.pdb
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.csproj.AssemblyReference.cache
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.GeneratedMSBuildEditorConfig.editorconfig
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.AssemblyInfoInputs.cache
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.AssemblyInfo.cs
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.csproj.CoreCompileInputs.cache
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.dll
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.pdb
+A:\VS Prog\Тестовый\Тестовый\obj\Debug\netcoreapp3.1\Тестовый.genruntimeconfig.cache

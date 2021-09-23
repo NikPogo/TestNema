@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\godde\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\godde\\.nuget\\packages"
+    ]
+  }
+}
